@@ -1,2 +1,2 @@
 # olaus
-Olaus Shell Library
+Olaus Bash Shell Library
